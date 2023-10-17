@@ -1,0 +1,39 @@
+* {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+html {
+    background-color: #8fbc8f;
+}
+
+.outerBox {
+    background-color: #cae4ca;
+    margin: auto;
+    width: 50%;
+    height: 51vh;
+    padding: 40px;
+    border: solid 6px antiquewhite;
+    border-radius: 20px;
+}
+
+h1 {
+    font-family: 'Young Serif', serif;
+}
+
+ul {
+    list-style-type: disclosure-closed;
+}
+
+li {
+    padding: 10px;
+    font-size: 22px;
+    font-style: italic;
+}
+
+a {
+    color: #460101;
+}
+
+a:visited {
+    color: #460101;
+}
